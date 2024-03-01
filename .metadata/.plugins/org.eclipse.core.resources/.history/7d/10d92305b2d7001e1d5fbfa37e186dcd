@@ -1,0 +1,22 @@
+package com.mtit.postal.packagetypeservice;
+
+import org.osgi.framework.BundleActivator;
+import org.osgi.framework.BundleContext;
+
+public class PublisherActivator implements BundleActivator {
+
+	private static BundleContext context;
+
+	static BundleContext getContext() {
+		return context;
+	}
+
+	public void start(BundleContext bundleContext) throws Exception {
+		System.out.println("Start impl");
+	}
+
+	public void stop(BundleContext bundleContext) throws Exception {
+		System.out.println("End impl");
+	}
+
+}

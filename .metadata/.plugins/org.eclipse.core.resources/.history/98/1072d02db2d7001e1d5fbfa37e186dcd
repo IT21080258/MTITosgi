@@ -1,0 +1,29 @@
+package com.mtit.postal.packagetypeservice;
+
+import org.osgi.framework.BundleActivator;
+import org.osgi.framework.BundleContext;
+
+public class PublisherActivator implements PackageType,BundleActivator {
+
+	@Override
+	public void start(BundleContext arg0) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void stop(BundleContext arg0) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+Boolean void packageType(String packageId, Boolean express, Boolean fragile) {
+		String pkgType = null;
+		if (express == "yes" && fragile == "yes") {
+			pkgType = ""
+		}
+		System.out.println("Package ID: " + packageId);
+		System.out.println("Package Type: " + pkgType);
+	}
+}
