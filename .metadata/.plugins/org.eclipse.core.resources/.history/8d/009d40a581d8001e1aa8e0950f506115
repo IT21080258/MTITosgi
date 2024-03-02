@@ -16,7 +16,7 @@ public class PublisherActivator implements BundleActivator {
         packageTypeRegistration = context.registerService(
         		PackageType.class.getName(), packageType, null
         		);
-       System.out.println(packageType.packageTypeImpl("abc123", true, false ));
+       System.out.println(packageType);
 
         
 	}

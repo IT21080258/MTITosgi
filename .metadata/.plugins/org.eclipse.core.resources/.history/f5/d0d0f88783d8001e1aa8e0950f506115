@@ -22,5 +22,8 @@ public class PackgeTypeImpl implements PackageType {
 		return pkgType;
 	}
 	
-	
+	public int printType() {
+		int pkgType = this.packageTypeImpl("abc123", true, false);
+		return pkgType;
+	}
 }
