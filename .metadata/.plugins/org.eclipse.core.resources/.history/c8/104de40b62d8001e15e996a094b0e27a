@@ -1,0 +1,10 @@
+package com.mtit.postal.packagetypeimplement;
+
+public class PackageTypeImpl implements PackageType {
+
+	@Override 
+	public String publishSevice() {
+		return "Publish service of publisher";
+	}
+
+}

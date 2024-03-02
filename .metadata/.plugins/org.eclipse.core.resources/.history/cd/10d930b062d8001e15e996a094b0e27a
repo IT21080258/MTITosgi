@@ -1,0 +1,25 @@
+package com.mtit.postal.packagetypeservice;
+
+import com.mtit.postal.packagetypeimplement.PackageTypeImpl;
+import org.osgi.framework.BundleActivator;
+import org.osgi.framework.BundleContext;
+
+public class PublisherActivator implements BundleActivator {
+
+	
+	
+	@Override
+	public void start(BundleContext context) throws Exception {
+		
+        System.out.println("Package Type Producer Bundle Started");
+        PackageType packageType = new PackageTypeImpl("abc123", true, false );
+        
+	}
+
+	@Override
+	public void stop(BundleContext arg0) throws Exception {
+        System.out.println("Package Type Producer Bundle Stopped");
+	}
+
+	
+}

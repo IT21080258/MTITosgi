@@ -16,8 +16,8 @@ com.google.protobuf,2.4.0.v201105131100,file:/C:/Users/Kasun%20Gamage/.p2/pool/p
 com.googlecode.javaewah.JavaEWAH,1.2.3,file:/C:/Users/Kasun%20Gamage/.p2/pool/plugins/com.googlecode.javaewah.JavaEWAH_1.2.3.jar,4,true
 com.ibm.icu,74.1.0,file:/C:/Users/Kasun%20Gamage/.p2/pool/plugins/com.ibm.icu_74.1.0.jar,4,true
 com.jcraft.jsch,0.1.55.v20230916-1400,file:/C:/Users/Kasun%20Gamage/.p2/pool/plugins/com.jcraft.jsch_0.1.55.v20230916-1400.jar,4,true
-com.mtit.postal.PackageTypeImplement,1.0.0.qualifier,file:/E:/SLIIT/Y04S01/MTIT/Assingment/com.mtit.postal.PackageTypeImplement/,4,true
-com.mtit.postal.PackageTypeService,1.0.0.qualifier,file:/E:/SLIIT/Y04S01/MTIT/Assingment/com.mtit.postal.PackageTypeService/,4,true
+com.mtit.postal.PackageTypeImplement,1.0.0.qualifier,file:/C:/Users/Kasun%20Gamage/Documents/SLIIT/MTIT/NEw%20assingment/com.mtit.postal.PackageTypeImplement/,4,true
+com.mtit.postal.packagetypeservice,1.0.0.qualifier,file:/C:/Users/Kasun%20Gamage/Documents/SLIIT/MTIT/NEw%20assingment/com.mtit.postal.PackageTypeService/,4,true
 com.sun.el.javax.el,3.0.4,file:/C:/Users/Kasun%20Gamage/.p2/pool/plugins/com.sun.el.javax.el_3.0.4.jar,4,true
 com.sun.jna,5.13.0.v20230812-1000,file:/C:/Users/Kasun%20Gamage/.p2/pool/plugins/com.sun.jna_5.13.0.v20230812-1000/,4,true
 com.sun.jna.platform,5.13.0,file:/C:/Users/Kasun%20Gamage/.p2/pool/plugins/com.sun.jna.platform_5.13.0.jar,4,true

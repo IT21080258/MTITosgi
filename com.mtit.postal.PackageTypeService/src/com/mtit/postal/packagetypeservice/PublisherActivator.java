@@ -2,31 +2,23 @@ package com.mtit.postal.packagetypeservice;
 
 import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;
+import org.osgi.framework.ServiceRegistration;
 
-public class PublisherActivator implements PackageType,BundleActivator {
+public class PublisherActivator implements BundleActivator {
 
-	@Override
-	public int packageType(String packageId, Boolean express, Boolean fragile) {
-		int pkgType = 0;
-		if (express = true) {
-		  pkgType = 1;
-		}
-		else if (express = false){
-			if (fragile = true){
-				pkgType = 1;
-			}
-			else
-				pkgType = 2;
-		}
-		return pkgType;
-	}
+	ServiceRegistration packageTypeRegistration;
 	
 	@Override
 	public void start(BundleContext context) throws Exception {
-		context.registerService(PackageType.class, this , null);
+		
         System.out.println("Package Type Producer Bundle Started");
-        int pkgtype = this.packageType("ABC123",true,false);
-        System.out.println(pkgtype);
+        PackageType packageType = new PackgeTypeImpl("abc123", true, false );
+        packageTypeRegistration = context.registerService(
+        		PackageType.class.getName(), packageType, null
+        		);
+        System.out.println(packageType);
+
+        
 	}
 
 	@Override

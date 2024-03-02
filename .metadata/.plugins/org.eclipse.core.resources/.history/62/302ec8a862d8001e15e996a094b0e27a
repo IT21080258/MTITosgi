@@ -1,0 +1,5 @@
+package com.mtit.postal.packagetypeservice;
+
+public interface PackageType {
+		int packageType(String packageId, boolean express, boolean fragile);
+}

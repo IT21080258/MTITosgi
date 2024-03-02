@@ -1,0 +1,20 @@
+package com.mtit.postal.packagetypeservice;
+
+public class PackgeTypeImpl implements PackageType {
+
+	@Override
+	public int packageType(String packageId, Boolean express, Boolean fragile) {
+		int pkgType = 0;
+		if (express = true) {
+		  pkgType = 1;
+		}
+		else if (express = false){
+			if (fragile = true){
+				pkgType = 1;
+			}
+			else
+				pkgType = 2;
+		}
+		return pkgType;
+	}
+}

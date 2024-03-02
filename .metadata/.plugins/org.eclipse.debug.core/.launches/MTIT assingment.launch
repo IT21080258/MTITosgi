@@ -1015,7 +1015,7 @@
     </setAttribute>
     <setAttribute key="selected_workspace_bundles">
         <setEntry value="com.mtit.postal.PackageTypeImplement@default:default"/>
-        <setEntry value="com.mtit.postal.PackageTypeService@default:default"/>
+        <setEntry value="com.mtit.postal.packagetypeservice@default:default"/>
     </setAttribute>
     <booleanAttribute key="show_selected_only" value="false"/>
     <booleanAttribute key="tracing" value="false"/>

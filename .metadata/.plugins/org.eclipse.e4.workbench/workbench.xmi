@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_7xAM0NerEe60_-3cU856zg" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_7xAM0derEe60_-3cU856zg" bindingContexts="_7xAM2terEe60_-3cU856zg">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PublisherActivator.java&quot; tooltip=&quot;com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PublisherActivator.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PublisherActivator.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PackageTypeImpl.java&quot; tooltip=&quot;com.mtit.postal.PackageTypeImplement/src/com/mtit/postal/packagetypeimplement/PackageTypeImpl.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/com.mtit.postal.PackageTypeImplement/src/com/mtit/postal/packagetypeimplement/PackageTypeImpl.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PackageType.java&quot; tooltip=&quot;com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PackageType.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PackageType.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.pde.ui.manifestEditor&quot; name=&quot;MANIFEST.MF&quot; tooltip=&quot;com.mtit.postal.PackageTypeImplement/META-INF/MANIFEST.MF&quot;>&#xD;&#xA;&lt;persistable path=&quot;/com.mtit.postal.PackageTypeImplement/META-INF/MANIFEST.MF&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.pde.ui.manifestEditor&quot; name=&quot;MANIFEST.MF&quot; tooltip=&quot;com.mtit.postal.PackageTypeService/META-INF/MANIFEST.MF&quot;>&#xD;&#xA;&lt;persistable path=&quot;/com.mtit.postal.PackageTypeService/META-INF/MANIFEST.MF&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PublisherActivator.java&quot; tooltip=&quot;com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PublisherActivator.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PublisherActivator.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PackgeTypeImpl.java&quot; tooltip=&quot;com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PackgeTypeImpl.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PackgeTypeImpl.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PackageTypeImpl.java&quot; tooltip=&quot;com.mtit.postal.PackageTypeImplement/src/com/mtit/postal/packagetypeimplement/PackageTypeImpl.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/com.mtit.postal.PackageTypeImplement/src/com/mtit/postal/packagetypeimplement/PackageTypeImpl.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PackageType.java&quot; tooltip=&quot;com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PackageType.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PackageType.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ServiceActivator.java&quot; tooltip=&quot;com.mtit.postal.PackageTypeImplement/src/com/mtit/postal/packagetypeimplement/ServiceActivator.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/com.mtit.postal.PackageTypeImplement/src/com/mtit/postal/packagetypeimplement/ServiceActivator.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PackageType.java&quot; tooltip=&quot;com.mtit.postal.PackageTypeImplement/src/com/mtit/postal/packagetypeimplement/PackageType.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/com.mtit.postal.PackageTypeImplement/src/com/mtit/postal/packagetypeimplement/PackageType.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PackageTypeImpl1.java&quot; tooltip=&quot;com.mtit.postal.PackageTypeImplement/src/com/mtit/postal/packagetypeimplement/PackageTypeImpl1.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/com.mtit.postal.PackageTypeImplement/src/com/mtit/postal/packagetypeimplement/PackageTypeImpl1.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PackageTypeClass.java&quot; tooltip=&quot;com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PackageTypeClass.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PackageTypeClass.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.pde.ui.manifestEditor&quot; name=&quot;MANIFEST.MF&quot; tooltip=&quot;com.mtit.postal.PackageTypeImplement/META-INF/MANIFEST.MF&quot;>&#xD;&#xA;&lt;persistable path=&quot;/com.mtit.postal.PackageTypeImplement/META-INF/MANIFEST.MF&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.pde.ui.manifestEditor&quot; name=&quot;MANIFEST.MF&quot; tooltip=&quot;com.mtit.postal.PackageTypeService/META-INF/MANIFEST.MF&quot;>&#xD;&#xA;&lt;persistable path=&quot;/com.mtit.postal.PackageTypeService/META-INF/MANIFEST.MF&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_7xAM0derEe60_-3cU856zg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_8GoekterEe60_-3cU856zg" label="%trimmedwindow.label.eclipseSDK" x="130" y="160" width="1024" height="768">
     <persistedState key="coolBarVisible" value="true"/>
@@ -289,7 +289,7 @@
               </children>
             </children>
             <children xsi:type="basic:PartSashContainer" xmi:id="_kycw99esEe60_-3cU856zg" containerData="7500" selectedElement="_kycxA9esEe60_-3cU856zg">
-              <children xsi:type="basic:PartSashContainer" xmi:id="_kycw-NesEe60_-3cU856zg" containerData="7500" selectedElement="_kycw-desEe60_-3cU856zg" horizontal="true">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_kycw-NesEe60_-3cU856zg" containerData="6038" selectedElement="_kycw-desEe60_-3cU856zg" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_kycw-desEe60_-3cU856zg" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_8ODVMNerEe60_-3cU856zg"/>
                 <children xsi:type="basic:PartStack" xmi:id="_kycw-tesEe60_-3cU856zg" elementId="org.eclipse.ui.views.ContentOutlineMStack" containerData="2500" selectedElement="_kycw-9esEe60_-3cU856zg">
                   <children xsi:type="advanced:Placeholder" xmi:id="_kycw-9esEe60_-3cU856zg" elementId="org.eclipse.ui.views.ContentOutline" ref="_8SZpt9erEe60_-3cU856zg" closeable="true">
@@ -306,8 +306,9 @@
                   </children>
                 </children>
               </children>
-              <children xsi:type="basic:PartStack" xmi:id="_kycxA9esEe60_-3cU856zg" elementId="org.eclipse.egit.ui.RepositoriesViewMStack" containerData="2500" selectedElement="_shq0gNeuEe60_-3cU856zg">
+              <children xsi:type="basic:PartStack" xmi:id="_kycxA9esEe60_-3cU856zg" elementId="org.eclipse.egit.ui.RepositoriesViewMStack" containerData="3962" selectedElement="_shq0gNeuEe60_-3cU856zg">
                 <tags>General</tags>
+                <tags>active</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_kycxBNesEe60_-3cU856zg" elementId="org.eclipse.egit.ui.RepositoriesView" toBeRendered="false" ref="_8SXNdNerEe60_-3cU856zg" closeable="true">
                   <tags>View</tags>
                   <tags>categoryTag:Git</tags>
@@ -327,6 +328,10 @@
                 <children xsi:type="advanced:Placeholder" xmi:id="_kycxAtesEe60_-3cU856zg" elementId="org.eclipse.tm.terminal.view.ui.TerminalsView" toBeRendered="false" ref="_8SYbkNerEe60_-3cU856zg" closeable="true">
                   <tags>View</tags>
                   <tags>categoryTag:Terminal</tags>
+                </children>
+                <children xsi:type="advanced:Placeholder" xmi:id="_mw7isNhjEe6KmsbRm2BFyg" elementId="org.eclipse.ui.console.ConsoleView:Console View #1" toBeRendered="false" ref="_mw67oNhjEe6KmsbRm2BFyg" closeable="true">
+                  <tags>View</tags>
+                  <tags>categoryTag:General</tags>
                 </children>
               </children>
             </children>
@@ -374,32 +379,29 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_8ODVMNerEe60_-3cU856zg" elementId="org.eclipse.ui.editorss" selectedElement="_8ODVMderEe60_-3cU856zg">
-      <children xsi:type="basic:PartStack" xmi:id="_8ODVMderEe60_-3cU856zg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_vpGKYNesEe60_-3cU856zg">
+      <children xsi:type="basic:PartStack" xmi:id="_8ODVMderEe60_-3cU856zg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_J1Qk8NhgEe6KmsbRm2BFyg">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
-        <tags>active</tags>
-        <children xsi:type="basic:Part" xmi:id="_lbwzsNesEe60_-3cU856zg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="com.mtit.postal.PackageTypeService" iconURI="platform:/plugin/org.eclipse.pde.ui/icons/obj16/plugin_mf_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.pde.ui.manifestEditor&quot; name=&quot;MANIFEST.MF&quot; partName=&quot;com.mtit.postal.PackageTypeService&quot; title=&quot;com.mtit.postal.PackageTypeService&quot; tooltip=&quot;com.mtit.postal.PackageTypeService/META-INF/MANIFEST.MF&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/com.mtit.postal.PackageTypeService/META-INF/MANIFEST.MF&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>removeOnHide</tags>
-          <tags>org.eclipse.pde.ui.manifestEditor</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_vpGKYNesEe60_-3cU856zg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="PublisherActivator.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PublisherActivator.java&quot; partName=&quot;PublisherActivator.java&quot; title=&quot;PublisherActivator.java&quot; tooltip=&quot;com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PublisherActivator.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PublisherActivator.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;965&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>removeOnHide</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_H9QKcNewEe60_-3cU856zg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="PackageType.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PackageType.java&quot; partName=&quot;PackageType.java&quot; title=&quot;PackageType.java&quot; tooltip=&quot;com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PackageType.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PackageType.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;154&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_Ir_FMNhfEe6KmsbRm2BFyg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="PackageType.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PackageType.java&quot; partName=&quot;PackageType.java&quot; title=&quot;PackageType.java&quot; tooltip=&quot;com.mtit.postal.PackageTypeImplement/src/com/mtit/postal/packagetypeimplement/PackageType.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/com.mtit.postal.PackageTypeImplement/src/com/mtit/postal/packagetypeimplement/PackageType.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;114&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_nSgOsNezEe60_-3cU856zg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="PackageTypeImpl.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PackageTypeImpl.java&quot; partName=&quot;PackageTypeImpl.java&quot; title=&quot;PackageTypeImpl.java&quot; tooltip=&quot;com.mtit.postal.PackageTypeImplement/src/com/mtit/postal/packagetypeimplement/PackageTypeImpl.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/com.mtit.postal.PackageTypeImplement/src/com/mtit/postal/packagetypeimplement/PackageTypeImpl.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;90&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_J1Qk8NhgEe6KmsbRm2BFyg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="PublisherActivator.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PublisherActivator.java&quot; partName=&quot;PublisherActivator.java&quot; title=&quot;PublisherActivator.java&quot; tooltip=&quot;com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PublisherActivator.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PublisherActivator.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;695&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_TArysNhgEe6KmsbRm2BFyg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="PackgeTypeImpl.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PackgeTypeImpl.java&quot; partName=&quot;PackgeTypeImpl.java&quot; title=&quot;PackgeTypeImpl.java&quot; tooltip=&quot;com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PackgeTypeImpl.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PackgeTypeImpl.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;464&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_XTg50NhgEe6KmsbRm2BFyg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="PackageType.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PackageType.java&quot; partName=&quot;PackageType.java&quot; title=&quot;PackageType.java&quot; tooltip=&quot;com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PackageType.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/com.mtit.postal.PackageTypeService/src/com/mtit/postal/packagetypeservice/PackageType.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;113&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
@@ -451,7 +453,7 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_8SX0gNerEe60_-3cU856zg" elementId="org.eclipse.ui.views.ProblemView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Problems" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/problems_view.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.views.markers.ProblemsView"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.ide"/>
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot; categoryGroup=&quot;org.eclipse.ui.ide.severity&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.problemsGenerator&quot;>&#xD;&#xA;&lt;expanded>&#xD;&#xA;&lt;category IMemento.internal.id=&quot;Errors (5 items)&quot;/>&#xD;&#xA;&lt;/expanded>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.locationField=&quot;90&quot; org.eclipse.ui.ide.markerType=&quot;90&quot; org.eclipse.ui.ide.pathField=&quot;120&quot; org.eclipse.ui.ide.resourceField=&quot;90&quot; org.eclipse.ui.ide.severityAndDescriptionField=&quot;300&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.markerType&quot;/>&#xD;&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot; categoryGroup=&quot;org.eclipse.ui.ide.severity&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.problemsGenerator&quot;>&#xD;&#xA;&lt;expanded>&#xD;&#xA;&lt;category IMemento.internal.id=&quot;Errors&quot;/>&#xD;&#xA;&lt;category IMemento.internal.id=&quot;Errors (2 items)&quot;/>&#xD;&#xA;&lt;category IMemento.internal.id=&quot;Warnings&quot;/>&#xD;&#xA;&lt;/expanded>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.locationField=&quot;90&quot; org.eclipse.ui.ide.markerType=&quot;90&quot; org.eclipse.ui.ide.pathField=&quot;120&quot; org.eclipse.ui.ide.resourceField=&quot;90&quot; org.eclipse.ui.ide.severityAndDescriptionField=&quot;300&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.markerType&quot;/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <menus xmi:id="_8fXusNerEe60_-3cU856zg" elementId="org.eclipse.ui.views.ProblemView">
@@ -514,6 +516,8 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
       <menus xmi:id="_sh6FENeuEe60_-3cU856zg" elementId="org.eclipse.ui.console.ConsoleView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -610,6 +614,18 @@
       <tags>View</tags>
       <tags>categoryTag:Mylyn</tags>
     </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_mw67oNhjEe6KmsbRm2BFyg" elementId="org.eclipse.ui.console.ConsoleView:Console View #1" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Console" iconURI="platform:/plugin/org.eclipse.ui.console/icons/full/cview16/console_view.png" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.console"/>
+      <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.console.ConsoleView"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:General</tags>
+      <menus xmi:id="_mxBCQNhjEe6KmsbRm2BFyg" elementId="org.eclipse.ui.console.ConsoleView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_mxBCQdhjEe6KmsbRm2BFyg" elementId="org.eclipse.ui.console.ConsoleView" visible="false"/>
+    </sharedElements>
     <trimBars xmi:id="_7xAM0terEe60_-3cU856zg" elementId="org.eclipse.ui.main.toolbar" contributorURI="platform:/plugin/org.eclipse.platform">
       <children xsi:type="menu:ToolBar" xmi:id="_8IMk0NerEe60_-3cU856zg" elementId="group.file" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -617,7 +633,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_8INL4NerEe60_-3cU856zg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_kQVW0Ne2Ee66Es2IJv8FJw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_7xdgaderEe60_-3cU856zg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_7nzxkNfMEe6KmsbRm2BFyg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_7xdgaderEe60_-3cU856zg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_8INy8NerEe60_-3cU856zg" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -625,8 +641,8 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_8INy8terEe60_-3cU856zg" elementId="org.eclipse.ui.workbench.edit">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_kQXMANe2Ee66Es2IJv8FJw" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" command="_7xacvderEe60_-3cU856zg"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_kQXzENe2Ee66Es2IJv8FJw" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_7xbq4NerEe60_-3cU856zg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_7n5RINfMEe6KmsbRm2BFyg" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" enabled="false" command="_7xacvderEe60_-3cU856zg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_7n7GUNfMEe6KmsbRm2BFyg" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_7xbq4NerEe60_-3cU856zg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_8INy89erEe60_-3cU856zg" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -659,7 +675,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_8INy99erEe60_-3cU856zg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_kQYaIde2Ee66Es2IJv8FJw" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_7xdgDNerEe60_-3cU856zg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_7n9ikNfMEe6KmsbRm2BFyg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_7xdgDNerEe60_-3cU856zg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_8INy-NerEe60_-3cU856zg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -3258,7 +3274,7 @@
   <addons xmi:id="_7xAM5terEe60_-3cU856zg" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_7xAM59erEe60_-3cU856zg" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_7xIIoNerEe60_-3cU856zg" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_kCyqENe2Ee66Es2IJv8FJw" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_7xVkANerEe60_-3cU856zg" elementId="org.eclipse.ui.category.edit" name="Edit"/>
   <categories xmi:id="_7xVkAderEe60_-3cU856zg" elementId="org.eclipse.mylyn.wikitext.ui.editor.category" name="WikiText Markup Editing Commands" description="commands for editing lightweight markup"/>
