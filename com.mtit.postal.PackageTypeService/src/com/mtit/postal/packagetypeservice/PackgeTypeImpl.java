@@ -1,25 +1,62 @@
 package com.mtit.postal.packagetypeservice;
 
 public class PackgeTypeImpl implements PackageType {
+	
+	String packageId;
+	boolean express;
+	boolean fragile;
+	
+	PU
+	
 
-	public PackgeTypeImpl(String string, boolean b, boolean c) {
-		// TODO Auto-generated constructor stub
+	public String getPackageId() {
+		return packageId;
 	}
 
+
+
+	public void setPackageId(String packageId) {
+		this.packageId = packageId;
+	}
+
+
+
+	public boolean isExpress() {
+		return express;
+	}
+
+
+
+	public void setExpress(boolean express) {
+		this.express = express;
+	}
+
+
+
+	public boolean isFragile() {
+		return fragile;
+	}
+
+
+
+	public void setFragile(boolean fragile) {
+		this.fragile = fragile;
+	}
+
+
+
 	@Override
-	public int packageTypeImpl(String packageId, boolean express, boolean fragile) {
-		int pkgType = 0;
-		if (express = true) {
-		  pkgType = 1;
-		}
-		else if (express = false){
-			if (fragile = true){
-				pkgType = 1;
-			}
-			else
-				pkgType = 2;
-		}
-		return pkgType;
+	public String packageTypeImpl() {
+		
+		if (express = true)
+			setPackageId("6");
+		else if (express == false && fragile == true)
+			setPackageId("7");
+		else
+			setPackageId("8");
+		
+		return getPackageId();
+		
 	}
 	
 	

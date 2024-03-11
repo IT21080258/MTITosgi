@@ -12,11 +12,18 @@ public class PublisherActivator implements BundleActivator {
 	public void start(BundleContext context) throws Exception {
 		
         System.out.println("Package Type Producer Bundle Started");
-        PackgeTypeImpl packageType = new PackgeTypeImpl("abc123", true, false );
+        PackgeTypeImpl packageType = new PackgeTypeImpl();
         packageTypeRegistration = context.registerService(
         		PackageType.class.getName(), packageType, null
         		);
-       System.out.println(packageType.packageTypeImpl("abc123", true, false ));
+        
+        packageType.setPackageId("0");
+        packageType.setFragile(false);
+        packageType.setExpress(false);
+        
+        
+        
+		System.out.println("Package Type : "+packageType.packageTypeImpl());
 
         
 	}
